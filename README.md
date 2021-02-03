@@ -7,7 +7,7 @@ I am a 19 year old mobile and web developer.
 
 
 * 🗣    Java | Kotlin | Typescript | Dart | Python | Javascript
-* 🖇️    Flutter | Apache Cordova | Ionic | Native Android
+* 🖥    Flutter | Apache Cordova | Ionic | Native Android
 * 🛢️    MySQL | MongoDB 
 * 🌐    Angular
 * ☁    Express | .NET CORE | Spring
