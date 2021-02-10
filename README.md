@@ -17,5 +17,10 @@ I am a 19 year old mobile and web developer.
 - Twitter - [@Fmaldonado4202](https://twitter.com/Fmaldonado4202)
 - Instagram - [f_maldonado4202](https://www.instagram.com/f_maldonado4202/?hl=es-la)
 
+### Now Listening To: 🎧
+
+[<img src="https://spotify-readme-flame.vercel.app/api/spotify" alt="Spotify Playing" width="400" />](https://open.spotify.com/user/fmaldonado60)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Fmaldonado6)
+
