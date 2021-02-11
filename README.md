@@ -1,5 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Fernando Maldonado 
 
+
 I am a 19 year old mobile and web developer.
 
 
@@ -21,6 +22,7 @@ I am a 19 year old mobile and web developer.
 
 [<img src="https://spotify-readme-flame.vercel.app/api/spotify" alt="Spotify Playing" width="400" />](https://open.spotify.com/user/fmaldonado60)
 
+<img src="./images/klipartz.com.png" width="50px" style="margin-bottom:10px;">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Fmaldonado6)
 
