@@ -20,7 +20,7 @@ I am a 19 year old mobile and web developer.
 
 <div style="display:flex; align-items:center;">
 <a href="https://open.spotify.com/user/fmaldonado60"><img src="https://spotify-readme-flame.vercel.app/api/spotify" alt="Spotify Playing" width="425" /></a>
-<img src="./images/klipartz.com.png" width="55px" style="margin-right:auto;margin-bottom:10px;">
+<img src="./images/klipartz.com.png" width="55px" style="margin-right:auto;margin-bottom:50px;">
 </div>
 
 
