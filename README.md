@@ -18,8 +18,9 @@ I am a 19 year old mobile and web developer.
 
 ### Now Listening To: 🎧
 
+<img align="right" style="margin-top:20px; margin-right:150px" src="./images/klipartz.com.png" width="55px" >
+
 [<img src="https://spotify-readme-flame.vercel.app/api/spotify" alt="Spotify Playing" width="425" />](https://open.spotify.com/user/fmaldonado60)
 
-<img algin="right" src="./images/klipartz.com.png" width="55px" >
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Fmaldonado6)
