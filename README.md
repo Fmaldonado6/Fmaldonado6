@@ -1,11 +1,11 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Fernando Maldonado <img   src="./images/klipartz.com.png" width="40px" >
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Fernando Maldonado <img   src="./images/klipartz.com.png" width="40px" ></h1>
 
 
-I am a 19 year old mobile and web developer.
+<h3 align="center"> I am a 19 year old mobile and web developer.</h3>
 
 ## ⚡ Tech Stack
 
-- 🗣 Java | Kotlin | Typescript | Dart | Python | Javascript
+- 🗣 Java | Kotlin | Typescript | Dart | Python | Javascript | C#
 - 🖥 Flutter | Apache Cordova | Ionic | Native Android
 - 🛢️ MySQL | MongoDB
 - 🌐 Angular
