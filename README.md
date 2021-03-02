@@ -6,7 +6,7 @@
 ## ⚡ Tech Stack
 
 - 🗣 Java | Kotlin | Typescript | Dart | Python | Javascript | C#
-- 🖥 Flutter | Apache Cordova | Ionic | Native Android
+- 📱 Flutter | Apache Cordova | Ionic | Native Android
 - 🛢️ MySQL | MongoDB
 - 🌐 Angular
 - ☁ Express | .NET CORE | Spring
