@@ -3,6 +3,7 @@
 
 <h3 align="center"> I am a 19 year old mobile and web developer.</h3>
 
+
 ## ⚡ Tech Stack
 
 - 🗣 Java | Kotlin | Typescript | Dart | Python | Javascript | C#
@@ -23,6 +24,14 @@
 
 [<img src="https://spotify-readme-flame.vercel.app/api/spotify" alt="Spotify Playing" width="425" />](https://open.spotify.com/user/fmaldonado60)
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fmaldonado6&theme=dracula&show_icons=true&count_private=true&hide=issues&line_height=24">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmaldonado6&layout=compact&theme=dracula">
+
+
+ </p>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Fmaldonado6)
