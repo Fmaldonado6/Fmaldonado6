@@ -38,4 +38,12 @@
  </p>
 <br>
 
+## ☕ Like what I do?
+<br>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U54JOMU)
+
+<br>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Fmaldonado6)
+
