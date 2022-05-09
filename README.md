@@ -28,14 +28,12 @@
 
 <br>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fmaldonado6&theme=dracula&show_icons=true&count_private=true&hide=issues&line_height=24">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmaldonado6&layout=compact&theme=dracula">
-
-
+<p align="center" >
+<img width="57%" src="https://github-readme-stats.vercel.app/api?username=fmaldonado6&theme=dracula&show_icons=true&count_private=true&hide=issues&line_height=24">
+<span width="100px" height="20px"></span>
+<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmaldonado6&layout=compact&theme=dracula">
  </p>
+
 <br>
 
 ## ☕ Like what I do?
