@@ -6,12 +6,12 @@
 
 ## ⚡ Tech Stack
 
-- 🗣 Java | Kotlin | Typescript | Dart | Python | Javascript | C#
-- 📱 Flutter | Apache Cordova | Ionic | Native Android
+- 🗣 Java | Kotlin | Typescript | Dart | Python | Javascript | C# | Swift
+- 📱 Flutter | Apache Cordova | Ionic | Native Android | Native iOS
 - 🛢️ MySQL | MongoDB
-- 🌐 Angular
+- 🌐 Angular | React
 - ☁ Express | .NET CORE | Spring
-- 💠 Unity
+- 💠 Unity | Godot
 
 ## 📫 Get in touch
 
